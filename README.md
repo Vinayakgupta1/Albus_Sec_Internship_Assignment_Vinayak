@@ -1,10 +1,10 @@
 # Internship Assignments
 
-Welcome to my internship assignment repository! This README provides an overview of the assignments I've completed during my internship. 
+Welcome to my internship portfolio! This README provides an overview of the assignments I've completed during my internship. Click on the assignment names to learn more about each project.
 
 ## Table of Contents
-- Networking Assignment
-- Python Programming Assignment
+- [Networking Assignment](https://github.com/Vinayakgupta1/Albus_Sec_Internship_Assignment_Vinayak/tree/main/Networking_Assignment)
+- [Python Programming Assignment](https://github.com/Vinayakgupta1/Albus_Sec_Internship_Assignment_Vinayak/tree/main/Python_Web_Exploit_Dev_Assignment)
 
 ## Networking Assignment
 **Objective:** The goal of this assignment was to understand and implement various networking protocols and design a small network using simulation tools.
