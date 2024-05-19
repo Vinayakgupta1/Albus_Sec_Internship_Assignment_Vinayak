@@ -1,6 +1,6 @@
 # Internship Assignments
 
-Welcome to my internship portfolio! This README provides an overview of the assignments I've completed during my internship. Click on the assignment names to learn more about each project.
+Welcome to my internship assignment repository! This README provides an overview of the assignments I've completed during my internship. 
 
 ## Table of Contents
 - Networking Assignment
