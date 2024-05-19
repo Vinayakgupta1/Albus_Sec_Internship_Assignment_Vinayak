@@ -1,2 +1,27 @@
-# Internship Introduction
-I am starting down a bright career path in security engineering as an intern at Albus Security. This training will cover a wide range of topics, including web 2.0 security, many programming languages, networking, and system expertise. Through practical projects, I will be able to put what I learn to use and expose myself to real-world difficulties. Additionally, I will get the opportunity to work for reputable organizations, gaining useful experience and certifications that will launch your career.
+# Internship Assignments
+
+Welcome to my internship portfolio! This README provides an overview of the assignments I've completed during my internship. Click on the assignment names to learn more about each project.
+
+## Table of Contents
+- Networking Assignment
+- Python Programming Assignment
+
+## Networking Assignment
+**Objective:** The goal of this assignment was to understand and implement various networking protocols and design a small network using simulation tools.
+
+**Key Learnings:**
+- Grasped the fundamentals of network layers and protocols.
+- Designed and simulated a network topology using Cisco Packet Tracer.
+- Configured routers and switches for basic network connectivity.
+
+**Outcome:** Successfully created a network that facilitated efficient communication between multiple devices.
+
+## Python Programming Assignment
+**Objective:** This assignment focused on developing problem-solving skills using Python programming.
+
+**Key Learnings:**
+- Mastered Python syntax and semantics.
+- Implemented various algorithms to solve complex problems.
+- Developed a small application that automated a routine task.
+
+**Outcome:** Enhanced my programming skills and delivered a Python application that improved process efficiency.
