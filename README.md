@@ -5,6 +5,7 @@ Welcome to my internship portfolio! This README provides an overview of the assi
 ## Table of Contents
 - [Networking Assignment](https://github.com/Vinayakgupta1/Albus_Sec_Internship_Assignment_Vinayak/tree/main/Networking_Assignment)
 - [Python Programming Assignment](https://github.com/Vinayakgupta1/Albus_Sec_Internship_Assignment_Vinayak/tree/main/Python_Web_Exploit_Dev_Assignment)
+- [Python Exploit Project](https://github.com/Vinayakgupta1/Albus_Sec_Internship_Assignment_Vinayak/tree/main/Python_Web_Exploit_Dev_Projects)
 
 ## Networking Assignment
 **Objective:** The goal of this assignment was to understand and implement various networking protocols and design a small network using simulation tools.
